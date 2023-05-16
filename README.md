@@ -1,1 +1,2 @@
-# MADLab2023211b413
+# MADLab23
+This repository contains MAD lab exercises written in java.
